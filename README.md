@@ -102,7 +102,7 @@ If you want to analyse the work done you should first start by cloning the repo.
  python main.py
  `````
 
- After the running this command, a JSON file will be created, then if we go back again to check our website, we can see now some items displayed. They come from:  https://www.wollplatz.de/
+ After running this command, a JSON file will be created, then if we go back again to check our website, we can see now some items displayed. They come from:  https://www.wollplatz.de/
 
  ![img2](./img2.png)
 
