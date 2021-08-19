@@ -72,7 +72,7 @@ If you want to analyse the work done you should first start by cloning the repo.
  ````
  cd wollComparator
  ````
- - Before Doing this project has some dependencies, they are: BeautifulSoup4, lxml and requests of course python too.
+ - Before moving further, this project has some dependencies, they are: BeautifulSoup4, lxml,requests and finally python too.
 
  First if you don't have already these dependencies installed, follow with me. Normally I should have done everything inside virtual_env to make it easy :-) :
 
@@ -88,9 +88,9 @@ If you want to analyse the work done you should first start by cloning the repo.
  pip install requests
  ````
  
- Now we're ready to move ooff !!
+ Now we're ready to move on... ooff !!
 
- if after cloning the repo you open the comparator.html file, you should have a page where there is no item displayed, a similar picture like this:
+ if after cloning the repo you open the **comparator.html** file, you should have a page where there is no item displayed, a similar picture like this:
  ![img1](./img1.png)
  
  What we have to do is to open our terminal, make sure our current location is inside de folder cloned then press this command:
@@ -107,4 +107,6 @@ If you want to analyse the work done you should first start by cloning the repo.
  ![img2](./img2.png)
 
  If we're able to see those new items, that means, everything went well.
+
+ ## Thank you, Danke, Merci !
 
