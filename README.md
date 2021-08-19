@@ -38,10 +38,10 @@ Stylecraft  Special double knit
 The listed woolen balls are automatically searched for on the website using the brand
 and name.
 If available, the following information is stored in a file for each of the listed woolen
-balls:
-▪ Price
-▪ Delivery time
-▪ Needle size
+balls: <br/>
+▪ Price <br/>
+▪ Delivery time <br/>
+▪ Needle size  <br/>
 ▪ Composition
 
 ### Non-functional
