@@ -93,7 +93,7 @@ If you want to analyse the work done you should first start by cloning the repo.
  if after cloning the repo you open the **comparator.html** file, you should have a page where there is no item displayed, a similar picture like this:
  ![img1](./img1.png)
  
- What we have to do is to open our terminal, make sure our current location is inside de folder cloned then press this command:
+ What we have to do is to open our terminal, make sure our current location is inside the folder cloned then press this command:
  `````
  python3 main.py
  `````
