@@ -5,7 +5,7 @@ import json
 woll = WollPlatz('https://www.wollplatz.de/')
 available_brands = woll.checkBrands()
 urls = woll.getUrlProducts(available_brands)
-print(urls)
+# print(urls)
 pro = woll.getInfos(urls)
 print(pro)
 
