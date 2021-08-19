@@ -140,6 +140,7 @@ class WollPlatz:
 
     return tds[1]    
   
+  # Get All info about the Product (Price, Delivery Time etc... by calling their respective methods)
   def getInfos(self, urls):
     listPrices = []
     listDeliveries = []
